@@ -1,5 +1,5 @@
 import pandas as pd
-data = pd.read_csv("/Users/drakeandersen/data science/list.csv")
+data = pd.read_csv("/Users/drakeandersen/data science/count_by_genre.csv")
 
 # function
 def find_genre(genre):

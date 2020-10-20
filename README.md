@@ -13,4 +13,6 @@ As a final step, I consolidated the 157 unique labels into a handful of larger g
 ## Conclusion
 Musicians considered to be experimental were most likely to be associated with rock music subgenres by a wide margin, followed by electronic, pop, and metal. Remarkably, the number of rock-related labels (88) exceeded even the number of instances of the label “experimental” (70).
 
+![Prevalence of Genre Labels for Musicians Considered to Be Experimental](https://github.com/dandersen19/experimental_genre/blob/main/results.png)
+
 Of course, it bears mentioning that the sample size for this project is extremely small, and was drawn from a list that was generated manually, rather than automatically. Consequently, the list may be especially vulnerable to systemic biases of Wikipedia editors (https://en.wikipedia.org/wiki/Wikipedia:Systemic_bias). Nevertheless, this brief study is a starting point for better understanding the application of an especially ambiguous term.
